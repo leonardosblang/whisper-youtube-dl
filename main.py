@@ -5,7 +5,7 @@ from download_video import VideoDownload
 model = whisper.load_model("base")
 
 
-# VideoDownload.download_ytvid_as_mp3("https://www.youtube.com/watch?v=I2wURDqiXdM", "audio")
+VideoDownload.download_ytvid_as_mp3("yourvideourl", "audio")
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
