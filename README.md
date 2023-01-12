@@ -1,5 +1,6 @@
 
 # 🤫 Whisper Transcriber
+![](/images/image.png)
 
 This project is a solution to transcribe audio files from YouTube using OpenAI's [Whisper](https://openai.com/blog/whisper/).
 
