@@ -22,5 +22,5 @@ This project is a solution to transcribe audio files from YouTube using OpenAI's
 
 ## 🔨 Usage
 1. Set your whisper mode. Default is base(most lightweight one) 🌬
-2. Set your video url in main.py 🎥
+2. Set your video url and click load 🎥
 3. It will be automatically saved and transcribed to a txt file. 💾
